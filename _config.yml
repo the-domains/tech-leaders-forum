@@ -1,0 +1,23 @@
+name: Tech Leaders Forum
+favicon: null
+layout_spectrum: 0.9999270315747708
+typography_spectrum: 0.49774610344320536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5658143875189126
+  lightness: 0.49697685753926635
+  saturation: 0.22476099710911512
+  rhythmicContrast: 0.9351287530735135
+purpose: []
